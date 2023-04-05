@@ -1,0 +1,15 @@
+D:\Online Voting system\Online Voting system\bin\Debug\Online Voting system.exe.config
+D:\Online Voting system\Online Voting system\bin\Debug\Online Voting system.exe
+D:\Online Voting system\Online Voting system\bin\Debug\Online Voting system.pdb
+D:\Online Voting system\Online Voting system\obj\Debug\Online Voting system.csproj.AssemblyReference.cache
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.Login.resources
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.Properties.Resources.resources
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.Register.resources
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.UserControl1.resources
+D:\Online Voting system\Online Voting system\obj\Debug\Online Voting system.csproj.GenerateResource.cache
+D:\Online Voting system\Online Voting system\obj\Debug\Online Voting system.csproj.CoreCompileInputs.cache
+D:\Online Voting system\Online Voting system\obj\Debug\Online Voting system.exe
+D:\Online Voting system\Online Voting system\obj\Debug\Online Voting system.pdb
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.Formfrnt.resources
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.Voting_Page.resources
+D:\Online Voting system\Online Voting system\obj\Debug\Online_Voting_system.Voting_Info.resources
